@@ -14,24 +14,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: SILENT.XARMONY" //ur yt chanel name
+global.socialm = "Insta: silent.xarmony" //ur github or insta name
+global.location = "India, Uttar Pradesh" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
+global.botname = '▪️▫️▪️ѕιℓєηт  χαямσηу🦚' //ur bot name
+global.ownernumber = '919634945456' //ur owner number
+global.ownername = '▪️▫️▪️ѕιℓєηт  χαямσηу🦚' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.themeemoji = '🦚'
+global.wm = "▪️▫️▪️ѕιℓєηт  χαямσηу🦚"
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.packname = "▪️▫️▪️ѕιℓєηт  χαямσηу🦚"
+global.author = "▪️▫️▪️ѕιℓєηт  χαямσηу🦚\n\n+919634945456"
+global.creator = "919634945456@s.whatsapp.net"
+global.xprefix = ','
+global.premium = ["919634945456"] // Premium User
 global.hituet = 0
 
 //bot sett
